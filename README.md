@@ -32,7 +32,7 @@
 
 ## Demo
 
-![](Gif/demo1.gif)
-![](Gif/demo2.gif)
-![](Gif/demo3.gif)
-![](Gif/demo4.gif)
+![](gif/demo1.gif)
+![](gif/demo2.gif)
+![](gif/demo3.gif)
+![](gif/demo4.gif)
